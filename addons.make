@@ -1,0 +1,8 @@
+ofxOpenCv
+ofxSvg
+ofxVectorGraphics
+ofxCv
+ofxFaceTracker
+ofxFTGL
+ofxParticleEmitter
+ofxParticleSystem
